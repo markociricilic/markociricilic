@@ -1,5 +1,6 @@
 # Hi! I'm Marko 👋
 Education: 3rd year of studying Electrical and Computer Engineering @ University of Toronto
+<br>
 Primary Interests: 
   * Computer Hardware
   * Computer Architecture
