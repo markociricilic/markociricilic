@@ -1,7 +1,6 @@
 # Hi! I'm Marko 👋
 **Primary Interests:**
 ```assembly
-**Primary Interests:**
 > Computer Hardware
 > Computer Architecture
 > Digital Systems Design
