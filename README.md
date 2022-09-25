@@ -1,6 +1,6 @@
 # Hi! I'm Marko 👋
 **Primary Interests:**
-```ruby
+```python
 > Computer Hardware
 > Computer Architecture
 > Digital Systems Design
