@@ -10,4 +10,4 @@
 > Operating Systems
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markociricilic&hide=stata,matlab,swig,makefile&layout=donut&theme=gruvbox)](https://github.com/markociricilic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markociricilic&hide=stata,matlab,swig,makefile&layout=donut&theme=tokyonight)](https://github.com/markociricilic/github-readme-stats)
