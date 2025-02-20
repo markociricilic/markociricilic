@@ -10,7 +10,7 @@
 > Operating Systems
 ```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/markociricilic/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markociricilic&langs_count=6&theme=gruvbox" />
 </a>
 
